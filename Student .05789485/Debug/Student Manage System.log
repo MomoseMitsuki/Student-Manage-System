@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ASUS\source\repos\Student Manage System\main.cpp(62,6): warning C4101: “a”: 未引用的局部变量
+C:\Users\ASUS\source\repos\Student Manage System\main.cpp(63,7): warning C4101: “check”: 未引用的局部变量
+  Student Manage System.vcxproj -> C:\Users\ASUS\source\repos\Student Manage System\Debug\Student Manage System.exe
